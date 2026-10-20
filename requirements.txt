@@ -1,2 +1,4 @@
 wikipedia
 requests
+numpy
+sentence-transformers
